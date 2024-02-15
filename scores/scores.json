@@ -1,0 +1,52 @@
+{
+  "idToTestNameHash": {
+    "FrScTe1": "From Scratch Tests Binary Tree can get its value",
+    "FrScTe2": "From Scratch Tests Binary Tree can set its value",
+    "FrScTe3": "From Scratch Tests Binary Tree can insert a left child and return the created node",
+    "FrScTe4": "From Scratch Tests Binary Tree can insert a right child and return the created node",
+    "FrScTe5": "From Scratch Tests Binary Tree can get the value of its left child",
+    "FrScTe6": "From Scratch Tests Binary Tree can get the value of its right child",
+    "FrScTe7": "From Scratch Tests Univalued Binary Tree returns true when given a univalued tree",
+    "FrScTe8": "From Scratch Tests Univalued Binary Tree returns false when given a univalued tree",
+    "FrScTe9": "From Scratch Tests Invert inverts a simple balanced binary tree and returns the root",
+    "FrScTe10": "From Scratch Tests Invert correctly inverts binary tree",
+    "FrScTe11": "From Scratch Tests Second Minimum Node works for a valid example",
+    "FrScTe12": "From Scratch Tests Second Minimum Node works for an invalid example"
+  },
+  "testNameToIdHash": {
+    "From Scratch Tests Binary Tree can get its value": "FrScTe1",
+    "From Scratch Tests Binary Tree can set its value": "FrScTe2",
+    "From Scratch Tests Binary Tree can insert a left child and return the created node": "FrScTe3",
+    "From Scratch Tests Binary Tree can insert a right child and return the created node": "FrScTe4",
+    "From Scratch Tests Binary Tree can get the value of its left child": "FrScTe5",
+    "From Scratch Tests Binary Tree can get the value of its right child": "FrScTe6",
+    "From Scratch Tests Univalued Binary Tree returns true when given a univalued tree": "FrScTe7",
+    "From Scratch Tests Univalued Binary Tree returns false when given a univalued tree": "FrScTe8",
+    "From Scratch Tests Invert correctly inverts binary tree": "FrScTe10",
+    "From Scratch Tests Univalued Binary Tree returns true when given a tree with one value": "FrScTe7",
+    "From Scratch Tests Binary Tree can get the left child": "FrScTe5",
+    "From Scratch Tests Invert inverts a binary tree with only one node": "FrScTe9",
+    "From Scratch Tests Invert inverts a simple balanced binary tree": "FrScTe9",
+    "From Scratch Tests Invert inverts a simple balanced binary tree and returns the root": "FrScTe9",
+    "From Scratch Tests Second Minimum Node works for a valid example": "FrScTe11",
+    "From Scratch Tests Second Minimum Node works for an invalid example": "FrScTe12"
+  },
+  "testScores": {
+    "From Scratch Tests": {
+      "FrScTe1": 1,
+      "FrScTe2": 1,
+      "FrScTe3": 1,
+      "FrScTe4": 1,
+      "FrScTe5": 1,
+      "FrScTe6": 1,
+      "FrScTe7": 1,
+      "FrScTe8": 1,
+      "FrScTe9": 1,
+      "FrScTe10": 1
+    }
+  },
+  "humanReadable": {
+    "From Scratch Tests": "10/10",
+    "finalTestScore": "FINAL SCORE: 10/10"
+  }
+}

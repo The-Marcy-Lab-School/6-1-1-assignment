@@ -1,0 +1,26 @@
+{
+  "name": "vanilla-js-repo",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "preinstall": "cp hooks/pre-commit .git/hooks/pre-commit",
+    "start:scratch": "nodemon src/from-scratch.js",
+    "start:debug": "nodemon src/debug.js",
+    "start:modify": "nodemon src/modify.js",
+    "playground": "nodemon src/playground.js",
+    "lint": "eslint .",
+    "test": "jest",
+    "test:w": "jest --watchAll"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "eslint": "^8.49.0",
+    "eslint-config-airbnb-base": "^15.0.0",
+    "eslint-plugin-import": "^2.28.1",
+    "jest": "^29.7.0",
+    "nodemon": "^3.0.1",
+    "score-tests": "^1.0.0"
+  }
+}
