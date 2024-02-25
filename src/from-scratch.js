@@ -1,48 +1,24 @@
 class BinaryTree {
+  // Add private properties here(if applicable)
+  constructor(value) {}
 
-  // add private properties here
+  getRootValue() {}
 
-  constructor(value) {
+  setRootValue(value) {}
 
-  }
+  insertLeft(value) {}
 
-  getRootValue() {
+  insertRight(value) {}
 
-  }
+  getLeftChildValue() {}
 
-  setRootValue(value) {
-
-  }
-
-  insertLeft(value) {
-
-  }
-
-  insertRight(value) {
-
-  }
-
-  getLeftChildValue() {
-
-  }
-
-  getRightChildValue() {
-
-  }
+  getRightChildValue() {}
 }
 
-function isUnivalueTree(node) {
+const isUnivalueTree = root => {}
 
-}
+const invert = root => {}
 
-function invert(node) {
+const secondMinimumNode = root => {}
 
-}
-
-function secondMinimumNode(node) {
-
-}
-
-module.exports = {
-  BinaryTree, isUnivalueTree, invert, secondMinimumNode
-}
+module.exports = { BinaryTree, isUnivalueTree, invert, secondMinimumNode }
